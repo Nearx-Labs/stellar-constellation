@@ -4,6 +4,8 @@
 
 ### A curated collection of the best resources for Stellar network developers worldwide
 
+![Stellar Constellation](assets/stellar-constellation.gif)
+
 [![GitHub stars](https://img.shields.io/github/stars/Nearx-Labs/stellar-constellation?style=social)](https://github.com/Nearx-Labs/stellar-constellation/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
