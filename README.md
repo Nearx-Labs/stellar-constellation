@@ -22,7 +22,8 @@
 | [📚 Official Documentation](#-official-documentation) | [🔮 Soroban Smart Contracts](#-soroban-smart-contracts) | [📖 Learning & Education](#-learning--education) |
 | [🛠️ Developer Tools](#-developer-tools) | [💬 Community & Support](#-community--support) | [💰 Funding & Grants](#-funding--grants) |
 | [📦 GitHub Repositories](#-github-repositories) | [🎬 Media & Content](#-media--content) | [🔒 Security](#-security) |
-| [🏢 Official Resources](#-official-resources) | [🤖 AI Agent Tools](#-ai-agent-tools) | [🤝 Contributing](#-contributing) |
+| [🏢 Official Resources](#-official-resources) | [🤖 AI Agent Tools](#-ai-agent-tools) | [💼 Wallets](#-wallets) |
+| [🤝 Contributing](#-contributing) | [🙏 Acknowledgements](#-acknowledgements) | |
 
 ---
 
@@ -96,6 +97,9 @@
 | [Dune Analytics](https://docs.dune.com/data-catalog/stellar/overview) | Query Stellar data with SQL |
 | [Tansu Governance](https://testnet.tansu.dev/governance/?name=stellarpgq3) | Testnet governance dashboard |
 | [Alchemy API](https://www.alchemy.com/docs/reference/stellar-api-quickstart) | Stellar API quickstart guide |
+| [Stellar Laboratory](https://lab.stellar.org/) | Interactive tool to build and test transactions |
+| [StellarExpert](https://stellar.expert/explorer/public) | Block explorer and analytics platform |
+| [Stellar Dashboard](https://dashboard.stellar.org/) | Live network, testnet, and lumen supply metrics |
 
 <div align="right">
 
@@ -115,6 +119,7 @@
 | [Reddit r/Stellar](https://www.reddit.com/r/Stellar/) | Community subreddit |
 | [Stellar Community](https://stellar.org/community) | Official community hub |
 | [Tech Tuesdays](https://www.reddit.com/r/Stellar/comments/wpm2lx/rstellar_developer_tech_tuesdays/) | Weekly developer discussion threads |
+| [Galactic Talk](https://galactictalk.org/) | Community forum for Stellar users, developers, and traders |
 
 <div align="right">
 
@@ -151,6 +156,8 @@
 | [Scaffold Soroban](https://github.com/stellar/scaffold-soroban) | Project scaffolding template |
 | [AS Soroban Examples](https://github.com/Soneso/as-soroban-examples) | AssemblyScript examples |
 | [Soroban Guide](https://github.com/xycloo/soroban-guide) | Community learning guide |
+| [Stellar Core](https://github.com/stellar/stellar-core) | Validator node implementation backing the network |
+| [Stellar Protocol](https://github.com/stellar/stellar-protocol) | CAPs and SEPs discussion repo for protocol changes |
 
 <div align="right">
 
@@ -225,6 +232,21 @@
 
 ---
 
+## 💼 Wallets
+
+| Link | Description |
+|------|-------------|
+| [LOBSTR](https://lobstr.co/) | Mobile and web wallet for Stellar and XRP Ledger assets |
+| [Solar Wallet](https://solarwallet.io/) | Non-custodial wallet with multi-signature support |
+
+<div align="right">
+
+[⬆️ Back to top](#-stellar-constellation)
+
+</div>
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a PR.
@@ -242,6 +264,18 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 - Prefer official or well-maintained community resources
 - Include a clear, concise description
 - One link per row
+
+<div align="right">
+
+[⬆️ Back to top](#-stellar-constellation)
+
+</div>
+
+---
+
+## 🙏 Acknowledgements
+
+Some entries in this list (Stellar Laboratory, StellarExpert, Stellar Dashboard, Galactic Talk, Stellar Core, Stellar Protocol, LOBSTR, Solar Wallet) were sourced from [stellar/awesome-stellar](https://github.com/stellar/awesome-stellar), an earlier community-curated list of Stellar resources. Credit to its maintainers and contributors.
 
 <div align="right">
 
