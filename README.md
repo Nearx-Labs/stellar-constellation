@@ -238,6 +238,16 @@
 |------|-------------|
 | [LOBSTR](https://lobstr.co/) | Mobile and web wallet for Stellar and XRP Ledger assets |
 | [Solar Wallet](https://solarwallet.io/) | Non-custodial wallet with multi-signature support |
+| [Freighter](https://www.freighter.app/) | Official SDF browser extension and mobile wallet |
+| [xBull Wallet](https://xbull.app/) | Hybrid Stellar wallet with passkey support, PWA and extension |
+| [Albedo](https://albedo.link/) | Web-based Stellar signer — no install required |
+| [Rabet](https://rabet.io/) | Open-source browser extension wallet for Stellar |
+| [WalletConnect](https://walletconnect.com/) | Protocol for connecting wallets to dApps across chains, including Stellar |
+| [Hana](https://hana.money/) | Multi-chain wallet extension with Stellar support |
+| [HOT Wallet](https://hot-labs.org/) | Non-custodial MPC multi-chain wallet with a Stellar bridge |
+| [Klever Wallet](https://klever.io/) | Multi-chain mobile wallet supporting Stellar |
+| [OneKey Wallet](https://onekey.so/) | Open-source hardware and software wallet supporting Stellar |
+| [Bitget Wallet](https://web3.bitget.com/) | Multi-chain wallet from Bitget supporting Stellar |
 
 <div align="right">
 
