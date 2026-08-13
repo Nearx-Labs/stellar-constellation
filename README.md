@@ -1,27 +1,26 @@
-# 🌟 Stellar Developer Links
+<div align="center">
 
-> A curated collection of the best resources for Stellar network developers worldwide.
+# 🌟 Stellar Constellation
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/stellar-links?style=social)](https://github.com/your-username/stellar-links)
+### A curated collection of the best resources for Stellar network developers worldwide
+
+[![GitHub stars](https://img.shields.io/github/stars/Nearx-Labs/stellar-constellation?style=social)](https://github.com/Nearx-Labs/stellar-constellation/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Last Updated](https://img.shields.io/badge/last%20updated-August%202026-blue)]()
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+
+</div>
 
 ---
 
 ## 📑 Table of Contents
 
-- [Official Documentation](#-official-documentation)
-- [Soroban Smart Contracts](#-soroban-smart-contracts)
-- [Learning & Education](#-learning--education)
-- [Developer Tools](#-developer-tools)
-- [Community & Support](#-community--support)
-- [Funding & Grants](#-funding--grants)
-- [GitHub Repositories](#-github-repositories)
-- [Media & Content](#-media--content)
-- [Security](#-security)
-- [Official Resources](#-official-resources)
-- [AI Agent Tools](#-ai-agent-tools)
-- [Contributing](#-contributing)
+| | | |
+|---|---|---|
+| [📚 Official Documentation](#-official-documentation) | [🔮 Soroban Smart Contracts](#-soroban-smart-contracts) | [📖 Learning & Education](#-learning--education) |
+| [🛠️ Developer Tools](#-developer-tools) | [💬 Community & Support](#-community--support) | [💰 Funding & Grants](#-funding--grants) |
+| [📦 GitHub Repositories](#-github-repositories) | [🎬 Media & Content](#-media--content) | [🔒 Security](#-security) |
+| [🏢 Official Resources](#-official-resources) | [🤖 AI Agent Tools](#-ai-agent-tools) | [🤝 Contributing](#-contributing) |
 
 ---
 
@@ -40,6 +39,12 @@
 | [Example App Tutorial](https://developers.stellar.org/docs/build/apps/example-application-tutorial) | Build a complete application step-by-step |
 | [Issue an Asset](https://developers.stellar.org/docs/tokens/how-to-issue-an-asset) | Create and manage tokens on Stellar |
 
+<div align="right">
+
+[⬆️ Back to top](#-stellar-constellation)
+
+</div>
+
 ---
 
 ## 🔮 Soroban Smart Contracts
@@ -55,6 +60,12 @@
 | [Soroban Smart Contracts](https://github.com/kommitters/soroban_smart_contracts) | Curated smart contract examples |
 | [JS Soroban Client](https://stellar.github.io/js-soroban-client/Soroban.html) | JavaScript client library documentation |
 
+<div align="right">
+
+[⬆️ Back to top](#-stellar-constellation)
+
+</div>
+
 ---
 
 ## 📖 Learning & Education
@@ -65,6 +76,12 @@
 | [Stellar Quest](https://quest.stellar.org/) | Interactive learning challenges and badges |
 | [Soroban Bootcamp](https://www.risein.com/programs/soroban-online-bootcamp) | Free online Soroban development bootcamp |
 | [Stellar Skills](https://skills.stellar.org/) | AI-ready Stellar context for developers |
+
+<div align="right">
+
+[⬆️ Back to top](#-stellar-constellation)
+
+</div>
 
 ---
 
@@ -77,6 +94,12 @@
 | [Dune Analytics](https://docs.dune.com/data-catalog/stellar/overview) | Query Stellar data with SQL |
 | [Tansu Governance](https://testnet.tansu.dev/governance/?name=stellarpgq3) | Testnet governance dashboard |
 | [Alchemy API](https://www.alchemy.com/docs/reference/stellar-api-quickstart) | Stellar API quickstart guide |
+
+<div align="right">
+
+[⬆️ Back to top](#-stellar-constellation)
+
+</div>
 
 ---
 
@@ -91,6 +114,12 @@
 | [Stellar Community](https://stellar.org/community) | Official community hub |
 | [Tech Tuesdays](https://www.reddit.com/r/Stellar/comments/wpm2lx/rstellar_developer_tech_tuesdays/) | Weekly developer discussion threads |
 
+<div align="right">
+
+[⬆️ Back to top](#-stellar-constellation)
+
+</div>
+
 ---
 
 ## 💰 Funding & Grants
@@ -101,6 +130,12 @@
 | [Grants & Funding](https://stellar.org/grants-and-funding) | SDF grants and funding programs |
 | [Bug Bounty](https://stellar.org/grants-and-funding/bug-bounty) | Report vulnerabilities, earn rewards |
 | [SCF Handbook](https://stellar.gitbook.io/scf-handbook) | Guide to applying for SCF |
+
+<div align="right">
+
+[⬆️ Back to top](#-stellar-constellation)
+
+</div>
 
 ---
 
@@ -115,6 +150,12 @@
 | [AS Soroban Examples](https://github.com/Soneso/as-soroban-examples) | AssemblyScript examples |
 | [Soroban Guide](https://github.com/xycloo/soroban-guide) | Community learning guide |
 
+<div align="right">
+
+[⬆️ Back to top](#-stellar-constellation)
+
+</div>
+
 ---
 
 ## 🎬 Media & Content
@@ -126,6 +167,12 @@
 | [Developer Blog](https://stellar.org/blog/developers) | Technical blog posts |
 | [Stellar Press](https://stellar.org/press) | Press releases and reports |
 
+<div align="right">
+
+[⬆️ Back to top](#-stellar-constellation)
+
+</div>
+
 ---
 
 ## 🔒 Security
@@ -134,6 +181,12 @@
 |------|-------------|
 | [Bug Bounty Program](https://stellar.org/grants-and-funding/bug-bounty) | SDF vulnerability disclosure |
 | [OpenZeppelin Bounty](https://immunefi.com/bug-bounty/openzeppelin-stellar/information/) | Immunefi bounty for OZ contracts |
+
+<div align="right">
+
+[⬆️ Back to top](#-stellar-constellation)
+
+</div>
 
 ---
 
@@ -147,6 +200,12 @@
 | [Ambassador Program](https://stellar.gitbook.io/ambassador-program) | Become a Stellar ambassador |
 | [x402 Demo](https://stellar.org/x402-demo) | HTTP 402 machine-to-machine payments demo |
 
+<div align="right">
+
+[⬆️ Back to top](#-stellar-constellation)
+
+</div>
+
 ---
 
 ## 🤖 AI Agent Tools
@@ -155,6 +214,12 @@
 |------|-------------|
 | [Raven MCP Server](https://raven.stellar.buzz/) | Connect AI agents to Stellar data |
 | [Stellar Skills](https://skills.stellar.org/) | AI context for code generation |
+
+<div align="right">
+
+[⬆️ Back to top](#-stellar-constellation)
+
+</div>
 
 ---
 
@@ -176,6 +241,12 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 - Include a clear, concise description
 - One link per row
 
+<div align="right">
+
+[⬆️ Back to top](#-stellar-constellation)
+
+</div>
+
 ---
 
 ## 📄 License
@@ -184,6 +255,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<p align="center">
-  Made with ❤️ by the Nearx Labs
-</p>
+<div align="center">
+
+Made with ❤️ by the Nearx Labs
+
+[⭐ Star this repo](https://github.com/Nearx-Labs/stellar-constellation) · [🐛 Report a broken link](https://github.com/Nearx-Labs/stellar-constellation/issues) · [🤝 Contribute](CONTRIBUTING.md)
+
+</div>
